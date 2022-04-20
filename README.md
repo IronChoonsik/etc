@@ -7,6 +7,11 @@
 
 - 🌱 I’m currently learning python(Algorithm), Data Analysis, Machine Learning
 
+| Peace | Love | And | Icecream |
+
+
+
+
 <!---
 IronChoonsik/IronChoonsik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
