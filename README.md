@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @IronChoonsik
 - 👀 I’m interested in singing, weight training, listening to music
-- 🌱 I’m currently learning python(Algorithm)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python(Algorithm), machine learning
 
 <!---
 IronChoonsik/IronChoonsik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
