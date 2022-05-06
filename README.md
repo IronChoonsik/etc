@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning python(Algorithm), Data Analysis, Machine Learning
 
-| Peace | Love | And | Icecream |
+- | Peace | Love | And | Icecream |
 
 
 
