@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in singing, weight training, listening to music
 
-- 🌱 I’m currently learning python(Algorithm), Data Analysis, Machine Learning
+- 🌱 I’m currently learning ''python(Algorithm)'', Data Analysis, Machine Learning
 
 
 
