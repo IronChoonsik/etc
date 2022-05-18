@@ -1,13 +1,13 @@
 
-- <img src='https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEwMDdfNDEg%2FMDAxNjMzNjAwMDk4ODM1.ahOAMBQDG4zaesfDk5w1aVimGmbbzaeEtLvdeksTqKUg.gmDLAfEZIGZS--JoaQna-zbHeuLI1ZxYx0YAHLtH3W8g.JPEG.wis04062%2FUntitled-1_copy.jpg&type=a340' width='20%'>
 
-- 👋 Hi, I’m @IronChoonsik
+
+- 👋 Hi, I’m @CloudKim
 
 - 👀 I’m interested in singing, weight training, listening to music
 
 - 🌱 I’m currently learning python(Algorithm), Data Analysis, Machine Learning
 
-- | Peace | Love | And | Icecream |
+
 
 
 
